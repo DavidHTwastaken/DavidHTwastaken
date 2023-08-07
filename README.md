@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm David Houle-Tymeczko 👋</h1>
+
+<p>
+  I love learning about new technologies and writing code! 
+
+Creating solutions and automating tedious jobs are two of my favourite things.
+</p>
+
+<h2 align="center">🛠 Skills</h2>
+
+<h3>💡 Languages & Frameworks</h3>
+
 
 <!--
 **DavidHTwastaken/DavidHTwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
