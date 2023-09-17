@@ -11,6 +11,8 @@ Creating solutions and automating tedious jobs are two of my favourite things.
 <h3>💡 Languages & Frameworks</h3>
 
 
+<h2>Stats</h2>
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidHTwastaken)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DavidHTwastaken/DavidHTwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
